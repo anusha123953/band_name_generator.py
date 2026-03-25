@@ -20,12 +20,13 @@ And generates a fun band name by combining both inputs.
 ---
 
 ## 💻 Code
-
-```python
+python
 print("Welcome to the Band Name Generator.")
 city = input("What's the name of the city you grew up in?\n")
 pet = input("What's your pet's name?\n")
 print("Your band name could be " + city + " " + pet)
+
+
 ## 🚀 Future Improvements
 - Add random word combinations
 - Convert into GUI app
