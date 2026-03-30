@@ -1,32 +1,25 @@
-# Band Name Generator 🎸
+# python Mini Projects
 
 ## 📌 Description
-This is my first Python mini project.
+This repository contains my Python learning journey.
 
-It takes:
-- City name
-- Pet name
+## 📂 Projects
 
-And generates a fun band name by combining both inputs.
+### 🔹 Day 1: Band Name Generator 🎸
+- Generates a band name using user input
 
----
+### 🔹 Day 2: Tip Calculator 💰
+- Calculates how much each person should pay
 
-## 🛠️ Concepts Used
-- Print statements
-- Input function
+## 🚀 How to Run
+Run any file using:
+python filename.py
+
+## 💡 What I Learned
+- Input handling
 - Variables
-- String concatenation
+- Data types
+- Basic calculations
 
----
-
-## 💻 Code
-python
-print("Welcome to the Band Name Generator.")
-city = input("What's the name of the city you grew up in?\n")
-pet = input("What's your pet's name?\n")
-print("Your band name could be " + city + " " + pet)
-
-
-## 🚀 Future Improvements
-- Add random word combinations
-- Convert into GUI app
+## 👨‍💻 Author
+Anusha Shetty
